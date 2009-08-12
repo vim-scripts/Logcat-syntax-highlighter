@@ -12,7 +12,7 @@ hi def LogF_color ctermfg=white guifg=white ctermbg=red guibg=red
 hi def LogE_color ctermfg=red guifg=red
 hi def LogW_color ctermfg=brown guifg=brown
 hi def LogI_color ctermfg=blue guifg=blue
-hi def LogD_color ctermfg=green guifg=green
+hi def LogD_color ctermfg=darkgreen guifg=darkgreen
 hi def LogV_color ctermfg=gray guifg=gray
 
 syn match LogF 'F/.*' 
